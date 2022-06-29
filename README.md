@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @JackWorldwide
 - 👀 I’m interested in music and coding.
+- I do things
 
 <!---
 JackWorldwide/JackWorldwide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
