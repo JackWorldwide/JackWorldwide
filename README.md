@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JDHofer
+- 👋 Hi, I’m @JackWorldwide
 - 👀 I’m interested in music and coding.
 - I do things
 
